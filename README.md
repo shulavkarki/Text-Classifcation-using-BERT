@@ -53,7 +53,3 @@ Follow these steps to set up and run your project.
 # Note
 
 > Change the config for different training configuration according to your device.
-
-- Note 1: [Provide a brief description or instruction related to the note]
-- Note 2: [Provide another note or instruction if needed]
-- Note 3: [Add any additional notes or instructions as necessary]
