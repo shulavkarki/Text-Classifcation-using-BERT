@@ -7,7 +7,7 @@ class Config:
     cpu = "cpu"
     
     data_path = './data/ocr/'
-    checkpoint_path = './svaed/best_model_checkpoint.pth'
+    checkpoint_path = './saved/best_model_checkpoint.pth'
     dataloader_path = './saved/dataloader.pkl'
     metric_path = './saved/metric.xlsx'
 
