@@ -36,15 +36,14 @@ Follow these steps to set up and run your project.
 
 5. Install the required packages, libraries and frameworks:
 
- ```bash
- pip install -r requirements.txt
-
+    ```bash
+    pip install -r requirements.txt
 
 ### Training
-```bash
-python train.py
+   ```bash
+   python train.py
 
 
 ### Evaluation
-```bash
-python evaluate.py
+   ```bash
+   python evaluate.py
