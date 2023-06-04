@@ -39,11 +39,12 @@ Follow these steps to set up and run your project.
     ```bash
     pip install -r requirements.txt
 
-### Training
+6. Training:
+
    ```bash
    python train.py
 
+7. Evaluation:
 
-### Evaluation
    ```bash
    python evaluate.py
