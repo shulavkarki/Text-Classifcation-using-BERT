@@ -1,4 +1,5 @@
 # Text Classifcation using BERT
+Classify Text/Document in different classes using pre-trained BERT encoder.
 
 Classify the given text files into the following classes.
 
